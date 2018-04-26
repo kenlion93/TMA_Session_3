@@ -11,6 +11,7 @@ namespace Session_3
         static void Main(string[] args)
         {
             /*
+            Demo 6
              Khai bao mang int co 100 phan tu. Nhap n phan tu. Kiem tra n nam tu 1->100, neu ko thoa thi nhap lai
              * 1. Liet ke cac phan tu Duong
              * 2. Tinh tong cac phan tu
